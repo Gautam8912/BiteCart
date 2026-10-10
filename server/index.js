@@ -5,6 +5,7 @@
  * In development the Vite dev server proxies /api here, so both run from one
  * origin and the session cookie works without CORS gymnastics.
  */
+import cors from 'cors';
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
@@ -39,6 +40,10 @@ export function createApp() {
   seed();
 
   const app = express();
+  app.use(cors({
+  origin: '*',
+  credentials: true
+}));
   app.set('trust proxy', 1);
   app.disable('x-powered-by');
 
