@@ -1,0 +1,12 @@
+{
+  "name": "food-express-client",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Food Express React front-end workspace (built from the repository root with `npm run build`).",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  }
+}
