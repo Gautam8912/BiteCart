@@ -1,6 +1,5 @@
 # 🛒 BiteCart — Food, Groceries & Everyday Shopping
 
-
 **One platform. Everyday needs. Delivered.**
 
 BiteCart is a full-stack shopping and food delivery demo that brings groceries, restaurant meals, daily essentials, and electronics into one experience.
@@ -9,6 +8,12 @@ Built with **React, Vite, Node.js, Express, and SQLite**, the project demonstrat
 
 > [!IMPORTANT]
 > **Demo project — not a production delivery service.** Payments, delivery tracking, ratings, and promotions are simulated. No real payment is processed, and no live courier network is connected.
+
+---
+## 🚀 Live Demo
+👉 [Click here to view Live App](https://bitecart-client.vercel.app)
+
+Explore the BiteCart food ordering website, browse products, and experience the user interface.
 
 ---
 
