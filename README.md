@@ -349,5 +349,6 @@ The production server serves `client/dist` and falls back to `index.html` for
 client-side routes, so a single port hosts both the API and the SPA. Behind a
 reverse proxy, set `FE_TRUST_PROXY=1` and `FE_COOKIE_SECURE=production` and
 terminate TLS at the proxy.
-#   B i t e C a r t  
+#   B i t e C a r t 
+ 
  
