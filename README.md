@@ -1,5 +1,5 @@
 # 🛒 BiteCart — Food, Groceries & Everyday Shopping
-bitecart-client-alpha.vercel.app
+
 
 **One platform. Everyday needs. Delivered.**
 
